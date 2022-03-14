@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">nhom8demo</string>
+    <string-array name="country">
+        <item>VietNam</item>
+        <item>Lao</item>
+        <item>Cam</item>
+        <item>Thailand</item>
+    </string-array>
+    <string-array name="university">
+        <item>PTIT</item>
+        <item>FPT</item>
+        <item>HANU</item>
+        <item>NEU</item>
+    </string-array>
+</resources>
